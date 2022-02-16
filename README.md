@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @whzhangkui
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-whzhangkui/whzhangkui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Kui Zhang.
+- 👀 I’m interested in bioinformatics.
+- 🌱 I’m currently learning python and how to test CNV.
+- 💞️ I’m looking to collaborate on CNV testing.
+- 📫 How to reach me ... My Email is whzhangkui@hotmail.com
